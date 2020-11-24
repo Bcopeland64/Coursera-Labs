@@ -1,3 +1,3 @@
 # Coursera-Labs
 
-Custom Selection of Labs from the Applied Data Science Specialization (Univ. of Michigan)
+Custom selection of labs from Coursera 
